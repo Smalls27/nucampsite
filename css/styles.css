@@ -49,3 +49,10 @@ header h2 {
 .carousel {
     border: solid #5637dd;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 100;
+}
